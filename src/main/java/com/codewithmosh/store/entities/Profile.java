@@ -1,4 +1,4 @@
-package com.codewithmosh.store.entities
+package com.codewithmosh.store.entities;
 import java.time.LocalDate;
 
 import jakarta.persistence.Column;
